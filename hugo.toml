@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'es'
+title = 'Actividad22.2_ABM'
+theme = 'hugo-PaperMod'
